@@ -30,6 +30,6 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-!["Output"](swapcirculate.png)
+!["Output"](/swapcirculate.png)
 ## Result:
-Thus the python for circulate the values of n variables is executed successfully
+Thus the python for circulate the values of n variables is executed successfully.
